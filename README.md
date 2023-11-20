@@ -1,6 +1,6 @@
 # PSL-WEEK-2023-GRAPH-THEORY
 
-----------------------------------------------
+------------------------------------------------
 
 In this repository, I gathered the material covered in Day 3 of the PSL-WEEK 2023 @ Dauphine University. 
 
